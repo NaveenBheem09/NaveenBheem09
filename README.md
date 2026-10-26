@@ -24,9 +24,6 @@ I'm a Data Engineer with experience in data pipelines, enterprise data integrati
 
 ### 🌐 Connect with me
 
-
-### 🌐 Connect with Me
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-00C7B7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://naveensrivathsav.dev/)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naveen-srivathsav-dev/)
